@@ -1,0 +1,10 @@
+# Example input names.
+# Each line can be:
+#   Name
+#   Name|Company
+#   Name|Company|Position
+
+John Malkovich|Malkovich Enterprises|CEO - Malkovich
+Jane Doe|Acme Corp|Head of Growth
+Carlos García|DataVision|Data Scientist
+Ada Lovelace|Analytical Engines Inc|Chief Algorithm Architect
