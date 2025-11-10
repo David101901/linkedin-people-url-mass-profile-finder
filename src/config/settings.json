@@ -1,0 +1,7 @@
+{
+    "input_file": "data/input_names.txt",
+    "output_file": "data/results.json",
+    "log_file": "data/logs/run_2025-11-11.log",
+    "default_language": "English",
+    "max_workers": 5
+}
